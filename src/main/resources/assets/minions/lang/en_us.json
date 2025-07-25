@@ -1,1 +1,4 @@
-{}
+{
+  "entity.minions.minion": "Minion",
+  "item.minions.minion_spawn_egg": "Minion Spawn Egg"
+}
