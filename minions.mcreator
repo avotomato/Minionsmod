@@ -1,0 +1,56 @@
+{
+  "mod_elements": [
+    {
+      "name": "Minionore",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minionore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minions/items/minionore.json",
+          "src/main/resources/assets/minions/models/item/minionore.json",
+          "src/main/java/net/mcreator/minions/item/MinionoreItem.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.minions.minionore": "Minionbar"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/minions/MinionsMod.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/java/net/mcreator/minions/init/MinionsModTabs.java",
+      "src/main/java/net/mcreator/minions/init/MinionsModItems.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "minions",
+    "modName": "Minions",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.4",
+    "modElementsPackage": "net.mcreator.minions"
+  },
+  "mcreatorVersion": 202500228610
+}
